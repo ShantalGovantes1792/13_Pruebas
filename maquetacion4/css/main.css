@@ -1,0 +1,47 @@
+*{
+	font-family: Tahoma;
+}
+
+.titulo{
+	height: 100px;
+}
+h1{
+	padding-top: 30px;
+}
+
+.circulos{
+	width: 50px;
+	height: 50px;
+	border-radius: 100px;
+	background-color:#DCD9D1; 
+}
+.marginder{
+	margin-right: -50px;
+	margin-bottom: 30px;
+}
+.row2{
+	border-radius: 20px;
+	background-color: #DCD9D1;
+	height: 100px;
+	
+}
+.margringht{
+	margin-bottom: 20px;
+	/*margin-right: 10px;*/
+}
+.uno{
+	margin-left: -15px;
+	margin-right: 10px;
+
+}
+.dos{
+	margin-left: 10px;
+	margin-right: 15px;
+}
+.tres{
+	margin-left: 5px;
+	margin-right: 0px;
+}
+.cuatro{
+	margin-left: 0px;
+}
